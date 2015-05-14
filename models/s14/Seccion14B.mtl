@@ -1,0 +1,16 @@
+newmtl blinn5SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd GoldBake-lambert6SG-Gold.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+newmtl blinn8SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd GoldBake-blinn7SG-Gold2.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50

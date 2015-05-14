@@ -1,0 +1,1382 @@
+newmtl baked_blinn4SG_carroplaca1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl baked_blinn10SG_Seccion01_Torus_002_Torus_017_Torus_002_Torus_020SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl baked_blinn10SG_Seccion01_Torus_002_Torus_019_Torus_002_Torus_021SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl baked_lambert12SG_glass2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl baked_lambert15SG_cintagruesa1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl blinn18SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd baked-blinn13SG-cables3.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+newmtl blinn20SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd baked-blinn4SG-tornillos1.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+newmtl blinn21SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd baked-blinn16SG-carrometal1.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+newmtl blinn22SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd baked-blinn4SG-carrobase1.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+newmtl blinn23SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd baked-blinn4SG-carroplaca2.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+newmtl blinn24SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd baked-blinn4SG-llantas1.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+newmtl blinn25SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd baked-blinn4SG-llantas2.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+newmtl blinn26SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd baked-blinn4SG-carrobase2.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+newmtl blinn27SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd baked-blinn4SG-carroplaca4.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+newmtl blinn28SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd baked-blinn4SG-carroplaca3.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+newmtl blinn29SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd baked-blinn4SG-llantas3.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+newmtl blinn30SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd baked-blinn4SG-llantas4.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+newmtl blinn31SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd baked-blinn16SG-carrometal2.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+newmtl blinn32SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd baked-blinn4SG-tornillos2.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+newmtl blinn33SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd baked-lambert18SG-carro2.jpg
+Ni 1.00
+newmtl blinn34SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd baked-blinn16SG-carrometal3.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+newmtl blinn35SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd baked-blinn4SG-carrobase3.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+newmtl blinn36SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd baked-blinn4SG-carroplacas5.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+newmtl blinn37SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd baked-blinn4SG-carroplacas6.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+newmtl blinn38SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd baked-blinn4SG-llantas5.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+newmtl blinn39SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd baked-blinn4SG-llantas6.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+newmtl blinn40SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd baked-blinn4SG-tornillos3.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+newmtl blinn41SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd baked-blinn5SG-vigas13.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+newmtl blinn42SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd baked-blinn5SG-viga17.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+newmtl blinn43SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd baked-blinn5SG-viga21.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+newmtl blinn44SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd baked-blinn10SG-sost16.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+newmtl blinn45SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd baked-blinn11SG-sost15.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+newmtl blinn46SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd baked-blinn10SG-sost14.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+newmtl blinn47SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd baked-blinn11SG-sost13.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+newmtl blinn48SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd baked-blinn5SG-viga14.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+newmtl blinn49SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd baked-blinn5SG-viga18.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+newmtl blinn50SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd baked-blinn5SG-viga22.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+newmtl blinn51SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd baked-blinn7SG-graptornillo3.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+newmtl blinn52SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd baked-blinn8SG-grapbase3.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+newmtl blinn53SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd baked-blinn6SG-grap3.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+newmtl blinn54SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd baked-blinn9SG-graptubo3.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+newmtl blinn55SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd baked-blinn7SG-graptornillo4.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+newmtl blinn56SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd baked-blinn6SG-grap4.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+newmtl blinn57SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd baked-blinn8SG-grapbase4.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+newmtl blinn58SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd baked-blinn9SG-graptubo4.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+newmtl blinn59SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd baked-blinn5SG-viga15.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+newmtl blinn60SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd baked-blinn5SG-viga19.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+newmtl blinn61SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd baked-blinn5SG-viga23.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+newmtl blinn62SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd baked-blinn5SG-viga16.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+newmtl blinn63SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd baked-blinn5SG-viga20.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+newmtl blinn64SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd baked-blinn5SG-viga24.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+newmtl blinn65SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd baked-blinn10SG-sost10.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+newmtl blinn66SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd baked-blinn11SG-sost9.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+newmtl blinn67SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd baked-initialShadingGroup-sost12.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+newmtl blinn68SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd baked-blinn11SG-sost11.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+newmtl blinn69SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd baked-blinn12SG-plates1.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+newmtl blinn70SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd baked-lambert13SG-barril5.jpg
+Ni 1.00
+newmtl blinn71SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd baked-blinn10SG-sost1.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+newmtl blinn72SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd baked-blinn11SG-sost2.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+newmtl blinn73SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd baked-blinn7SG-graptornillo1.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+newmtl blinn74SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd baked-blinn6SG-grap1.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+newmtl blinn75SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd baked-blinn8SG-grabbase1.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+newmtl blinn76SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd baked-blinn9SG-graptubo1.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+newmtl blinn77SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd baked-blinn11SG-Seccion01_Torus_018_Torus_020.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+newmtl blinn78SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd baked-initialShadingGroup-sost5.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+newmtl blinn79SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd baked-blinn10SG-sost7.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+newmtl blinn80SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd baked-blinn11SG-sost8.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+newmtl blinn81SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd baked-blinn9SG-Seccion01_Cylinder_433_Cylinder_457.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+newmtl blinn82SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd baked-blinn6SG-Seccion01_Cube_011_Cube_010_Cube_011_Cube_011.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+newmtl blinn83SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd baked-blinn7SG-Seccion01_Cylinder_430_Cylinder_454.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+newmtl blinn84SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd baked-blinn8SG-Seccion01_Cube_013_Cube_010_Cube_013_Cube_011.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+newmtl blinn85SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd baked-blinn10SG-sost3.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+newmtl blinn86SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd baked-blinn11SG-sost4.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+newmtl blinn87SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd baked-blinn5SG-viga1.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+newmtl blinn88SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd baked-blinn5SG-viga2.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+newmtl blinn89SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd baked-blinn5SG-viga3.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+newmtl blinn90SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd baked-blinn5SG-viga4.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+newmtl blinn91SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd baked-blinn5SG-viga5.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+newmtl blinn92SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd baked-blinn5SG-viga6.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+newmtl blinn93SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd baked-blinn5SG-viga7.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+newmtl blinn94SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd baked-blinn5SG-viga8.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+newmtl blinn95SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd baked-blinn5SG-viga9.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+newmtl blinn96SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd baked-blinn5SG-viga10.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+newmtl blinn97SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd baked-blinn5SG-viga11.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+newmtl blinn98SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd baked-blinn5SG-viga12.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+newmtl blinn99SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd baked-lambert17SG-base3.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+newmtl blinn100SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd baked-lambert13SG-barril1.jpg
+Ni 1.00
+newmtl blinn102SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd baked-blinn14SG-tapa2.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+newmtl blinn103SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd baked-blinn14SG-tapa3.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+newmtl blinn104SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd baked-lambert12SG-glass2.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+newmtl blinn105SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd baked-blinn13SG-cables1.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+newmtl blinn106SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd baked-blinn14SG-tapascables1.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+newmtl blinn107SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd baked-lambert2SG-estante5bajo.jpg
+Ni 1.00
+newmtl blinn108SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd baked-blinn4SG-tornillo1.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+newmtl blinn109SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd baked-blinn4SG-tornillo2.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+newmtl blinn110SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd baked-blinn4SG-tornillo3.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+newmtl blinn111SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd baked-blinn4SG-tornillo4.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+newmtl blinn112SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd baked-blinn3SG-mar1.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+newmtl blinn113SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd baked-blinn3SG-mar2.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+newmtl blinn114SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd baked-blinn3SG-mar3.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+newmtl blinn115SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd baked-blinn3SG-mar4.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+newmtl blinn116SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd baked-phong1SG-casco1.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+newmtl blinn117SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd baked-phong1SG-casco3.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+newmtl blinn118SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd baked-phong1SG-casco2.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+newmtl blinn119SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd baked-phong1SG-casco4.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+newmtl blinn120SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd baked-lambert8SG-pico1.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+newmtl blinn121SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd baked-lambert8SG-pico2.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+newmtl blinn122SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd baked-lambert8SG-pico3.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+newmtl blinn123SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd baked-lambert8SG-pico4.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+newmtl blinn124SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd baked-blinn2SG-palo4.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+newmtl blinn125SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd baked-blinn2SG-pala3.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+newmtl blinn126SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd baked-blinn2SG-pala2.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+newmtl blinn127SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd baked-blinn2SG-pala1.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+newmtl lambert205SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd baked-lambert19SG-Seccion09Cuarto_Cube_033.jpg
+Ni 1.00
+newmtl lambert206SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd baked-lambert3SG-mesatop2.jpg
+Ni 1.00
+newmtl lambert207SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd baked-lambert4SG-pata5.jpg
+Ni 1.00
+newmtl lambert208SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd baked-lambert4SG-pata6.jpg
+Ni 1.00
+newmtl lambert209SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd baked-lambert4SG-pata7.jpg
+Ni 1.00
+newmtl lambert210SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd baked-lambert4SG-pata8.jpg
+Ni 1.00
+newmtl lambert211SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd baked-lambert12SG-glass3.jpg
+Ni 1.00
+newmtl lambert212SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd baked-lambert4SG-mesatop1.jpg
+Ni 1.00
+newmtl lambert213SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd baked-lambert4SG-pata1.jpg
+Ni 1.00
+newmtl lambert214SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd baked-lambert4SG-pata2.jpg
+Ni 1.00
+newmtl lambert215SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd baked-lambert4SG-pata3.jpg
+Ni 1.00
+newmtl lambert216SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd baked-lambert4SG-pata4.jpg
+Ni 1.00
+newmtl lambert217SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd baked-lambert16SG-cuerda4.jpg
+Ni 1.00
+newmtl lambert218SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd baked-lambert16SG-cuerda6.jpg
+Ni 1.00
+newmtl lambert219SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd baked-lambert16SG-cuerda3.jpg
+Ni 1.00
+newmtl lambert220SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd baked-lambert16SG-cuerda5.jpg
+Ni 1.00
+newmtl lambert221SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd baked-blinn13SG-cables2.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+newmtl lambert222SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd baked-lambert18SG-carro1.jpg
+Ni 1.00
+newmtl lambert223SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd baked-lambert18SG-carro3.jpg
+Ni 1.00
+newmtl lambert224SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd baked-lambert14SG-Seccion01_Plane_000_Plane_011_Plane_000_Plane_012.jpg
+Ni 1.00
+newmtl lambert225SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd baked-lambert14SG-cinta7.jpg
+Ni 1.00
+newmtl lambert226SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd baked-lambert14SG-cinta6.jpg
+Ni 1.00
+newmtl lambert227SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd baked-lambert14SG-Seccion01_Plane_001_Plane_011_Plane_001_Plane_012.jpg
+Ni 1.00
+newmtl lambert228SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd baked-lambert12SG-glass1.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+newmtl lambert229SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd baked-lambert17SG-base4.jpg
+Ni 1.00
+newmtl lambert230SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd baked-lambert15SG-cintagruesa2.jpg
+Ni 1.00
+newmtl lambert232SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd baked-lambert13SG-barril4.jpg
+Ni 1.00
+newmtl lambert233SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd baked-lambert14SG-cinta1.jpg
+Ni 1.00
+newmtl lambert234SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd baked-lambert14SG-cinta3.jpg
+Ni 1.00
+newmtl lambert235SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd baked-lambert14SG-cinta5.jpg
+Ni 1.00
+newmtl lambert236SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd baked-lambert14SG-cinta4.jpg
+Ni 1.00
+newmtl lambert238SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd baked-lambert13SG-barril3.jpg
+Ni 1.00
+newmtl lambert239SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd baked-lambert13SG-barril2.jpg
+Ni 1.00
+newmtl lambert240SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd baked-lambert16SG-cuerda1.jpg
+Ni 1.00
+newmtl lambert241SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd baked-lambert16SG-cuerda2.jpg
+Ni 1.00
+newmtl lambert242SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd baked-lambert2SG-estante5.jpg
+Ni 1.00
+newmtl lambert244SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd baked-lambert5SG-estante5izq.jpg
+Ni 1.00
+newmtl lambert245SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd baked-lambert5SG-estante5der.jpg
+Ni 1.00
+newmtl lambert246SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd baked-lambert5SG-estante6izq.jpg
+Ni 1.00
+newmtl lambert247SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd baked-lambert5SG-estante6der.jpg
+Ni 1.00
+newmtl lambert248SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd baked-lambert2SG-estante6.jpg
+Ni 1.00
+newmtl lambert249SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd baked-lambert2SG-estante6bajo.jpg
+Ni 1.00
+newmtl lambert250SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd baked-lambert5SG-estante3izq.jpg
+Ni 1.00
+newmtl lambert251SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd baked-lambert5SG-estante3der.jpg
+Ni 1.00
+newmtl lambert252SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd baked-lambert2SG-estante3.jpg
+Ni 1.00
+newmtl lambert253SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd baked-lambert2SG-estante3bajo.jpg
+Ni 1.00
+newmtl lambert254SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd baked-lambert10SG-marpalo1.jpg
+Ni 1.00
+newmtl lambert255SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd baked-lambert10SG-marpalo2.jpg
+Ni 1.00
+newmtl lambert256SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd baked-lambert10SG-marpalo3.jpg
+Ni 1.00
+newmtl lambert257SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd baked-lambert10SG-marpalo4.jpg
+Ni 1.00
+newmtl lambert258SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd baked-lambert2SG-estante4.jpg
+Ni 1.00
+newmtl lambert259SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd baked-lambert5SG-estante4izq.jpg
+Ni 1.00
+newmtl lambert260SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd baked-lambert5SG-estante4der.jpg
+Ni 1.00
+newmtl lambert261SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd baked-lambert2SG-estantebajo4.jpg
+Ni 1.00
+newmtl lambert262SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd baked-lambert2SG-Seccion01_Cube_887_Cube_916.jpg
+Ni 1.00
+newmtl lambert263SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd baked-lambert2SG-Seccion01_Cube_888_Cube_917.jpg
+Ni 1.00
+newmtl lambert264SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd baked-lambert5SG-Seccion01_Cube_890_Cube_919.jpg
+Ni 1.00
+newmtl lambert265SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd baked-lambert5SG-Seccion01_Cube_889_Cube_918.jpg
+Ni 1.00
+newmtl lambert266SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd baked-lambert7SG-picopalo1.jpg
+Ni 1.00
+newmtl lambert267SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd baked-lambert7SG-picoplao2.jpg
+Ni 1.00
+newmtl lambert268SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd baked-lambert7SG-picopalo3.jpg
+Ni 1.00
+newmtl lambert269SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd baked-lambert7SG-picopalo4.jpg
+Ni 1.00
+newmtl lambert270SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd baked-lambert2SG-Seccion01_Cube_875_Cube_904.jpg
+Ni 1.00
+newmtl lambert271SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd baked-lambert2SG-Seccion01_Cube_876_Cube_905.jpg
+Ni 1.00
+newmtl lambert272SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd baked-lambert5SG-estante2izq.jpg
+Ni 1.00
+newmtl lambert273SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd baked-lambert5SG-estante2der.jpg
+Ni 1.00
+newmtl lambert274SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd baked-lambert9SG-palapalo1.jpg
+Ni 1.00
+newmtl lambert275SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd baked-lambert9SG-palapalo2.jpg
+Ni 1.00
+newmtl lambert276SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd baked-lambert9SG-palapalo3.jpg
+Ni 1.00
+newmtl lambert277SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd baked-lambert9SG-palapalo4.jpg
+Ni 1.00

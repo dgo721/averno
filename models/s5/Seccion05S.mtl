@@ -1,0 +1,802 @@
+newmtl Ca_Seccion05_lambert4SG_Seccion05_Barril09SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Ca-Seccion05_lambert4SG-Seccion05_Barril09.jpg
+Ni 1.00
+newmtl blinn1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Ca-Seccion05_blinn1SG-Seccion05_Casco1.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+newmtl blinn3SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Ca-Seccion05_blinn3SG-Seccion05_Pico1.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+newmtl blinn4SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Ca-Seccion05_blinn3SG-Seccion05_Pico2.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+newmtl blinn5SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Ca-Seccion05_blinn3SG-Seccion05_Pico3.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+newmtl blinn6SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Ca-Seccion05_blinn2SG-Seccion05_Pala1.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+newmtl blinn7SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Ca-Seccion05_blinn4SG-Seccion05_Martillo1.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+newmtl blinn8SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Ca-Seccion05_blinn4SG-Seccion05_Martillo2.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+newmtl blinn9SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Ca-Seccion05_blinn2SG-Seccion05_Pala2.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+newmtl blinn10SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Ca-Seccion05_blinn2SG-Seccion05_Pala3.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+newmtl blinn11SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Ca-Seccion05_blinn2SG-Seccion05_Pala4.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+newmtl lambert115SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Ca-Seccion05_lambert1SG-Seccion05_Paredes.jpg
+Ni 1.00
+newmtl lambert116SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Ca-Seccion05_lambert3SG-Seccion05_Vigas.jpg
+Ni 1.00
+newmtl lambert117SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Ca-Seccion05_lambert2SG-Seccion05_MetalRiel1.jpg
+Ni 1.00
+newmtl lambert118SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Ca-Seccion05_lambert2SG-Seccion05_MetalRiel2.jpg
+Ni 1.00
+newmtl lambert119SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Ca-Seccion05_lambert2SG-Seccion05_MetalRiel3.jpg
+Ni 1.00
+newmtl lambert120SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Ca-Seccion05_lambert2SG-Seccion05_MetalRiel4.jpg
+Ni 1.00
+newmtl lambert121SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Ca-Seccion05_lambert5SG-Seccion05_MaderaRiel1.jpg
+Ni 1.00
+newmtl lambert122SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Ca-Seccion05_lambert5SG-Seccion05_MaderaRiel2.jpg
+Ni 1.00
+newmtl lambert123SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Ca-Seccion05_lambert6SG-Seccion05_MaderaRielS1.jpg
+Ni 1.00
+newmtl lambert124SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Ca-Seccion05_lambert6SG-Seccion05_MaderaRielS2.jpg
+Ni 1.00
+newmtl lambert125SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Ca-Seccion05_lambert6SG-Seccion05_MaderaRielS3.jpg
+Ni 1.00
+newmtl lambert126SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Ca-Seccion05_lambert6SG-Seccion05_MaderaRielS4.jpg
+Ni 1.00
+newmtl lambert127SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Ca-Seccion05_lambert6SG-Seccion05_MaderaRielS5.jpg
+Ni 1.00
+newmtl lambert128SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Ca-Seccion05_lambert6SG-Seccion05_MaderaRielS6.jpg
+Ni 1.00
+newmtl lambert129SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Ca-Seccion05_lambert11SG-Seccion05_Cableado1.jpg
+Ni 1.00
+newmtl lambert130SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Ca-Seccion05_lambert11SG-Seccion05_Cableado2.jpg
+Ni 1.00
+newmtl lambert131SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Ca-Seccion05_lambert11SG-Seccion05_Cableado3.jpg
+Ni 1.00
+newmtl lambert132SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Ca-Seccion05_lambert11SG-Seccion05_Cableado4.jpg
+Ni 1.00
+newmtl lambert133SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Ca-Seccion05_lambert4SG-Seccion05_Barril01.jpg
+Ni 1.00
+newmtl lambert134SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Ca-Seccion05_lambert4SG-Seccion05_Barril02.jpg
+Ni 1.00
+newmtl lambert135SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Ca-Seccion05_lambert4SG-Seccion05_Barril03.jpg
+Ni 1.00
+newmtl lambert136SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Ca-Seccion05_lambert4SG-Seccion05_Barril04.jpg
+Ni 1.00
+newmtl lambert137SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Ca-Seccion05_lambert4SG-Seccion05_Barril05.jpg
+Ni 1.00
+newmtl lambert138SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Ca-Seccion05_lambert4SG-Seccion05_Barril06.jpg
+Ni 1.00
+newmtl lambert139SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Ca-Seccion05_lambert4SG-Seccion05_Barril07.jpg
+Ni 1.00
+newmtl lambert140SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Ca-Seccion05_lambert4SG-Seccion05_Barril08.jpg
+Ni 1.00
+newmtl lambert141SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Ca-Seccion05_lambert4SG-Seccion05_Barril10.jpg
+Ni 1.00
+newmtl lambert142SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Ca-Seccion05_lambert4SG-Seccion05_Barril11.jpg
+Ni 1.00
+newmtl lambert143SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Ca-Seccion05_lambert4SG-Seccion05_Barril12.jpg
+Ni 1.00
+newmtl lambert144SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Ca-Seccion05_lambert4SG-Seccion05_Barril13.jpg
+Ni 1.00
+newmtl lambert145SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Ca-Seccion05_lambert4SG-Seccion05_Barril14.jpg
+Ni 1.00
+newmtl lambert146SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Ca-Seccion05_lambert4SG-Seccion05_Barril14.jpg
+Ni 1.00
+newmtl lambert147SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Ca-Seccion05_lambert4SG-Seccion05_Barril15.jpg
+Ni 1.00
+newmtl lambert148SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Ca-Seccion05_lambert4SG-Seccion05_Barril17.jpg
+Ni 1.00
+newmtl lambert149SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Ca-Seccion05_lambert4SG-Seccion05_Barril18.jpg
+Ni 1.00
+newmtl lambert150SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Ca-Seccion05_lambert4SG-Seccion05_Barril19.jpg
+Ni 1.00
+newmtl lambert151SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Ca-Seccion05_lambert4SG-Seccion05_Barril20.jpg
+Ni 1.00
+newmtl lambert152SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Ca-Seccion05_lambert4SG-Seccion05_Barril21.jpg
+Ni 1.00
+newmtl lambert153SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Ca-Seccion05_lambert4SG-Seccion05_Barril22.jpg
+Ni 1.00
+newmtl lambert154SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Ca-Seccion05_lambert7SG-Seccion05_Estante1.jpg
+Ni 1.00
+newmtl lambert155SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Ca-Seccion05_lambert7SG-Seccion05_Estante2.jpg
+Ni 1.00
+newmtl lambert156SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Ca-Seccion05_lambert7SG-Seccion05_Estante3.jpg
+Ni 1.00
+newmtl lambert157SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Ca-Seccion05_lambert7SG-Seccion05_Estante4.jpg
+Ni 1.00
+newmtl lambert158SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Ca-Seccion05_lambert8SG-Seccion05_Estante5.jpg
+Ni 1.00
+newmtl lambert159SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Ca-Seccion05_lambert8SG-Seccion05_Estante6.jpg
+Ni 1.00
+newmtl lambert160SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Ca-Seccion05_lambert8SG-Seccion05_Estante7.jpg
+Ni 1.00
+newmtl lambert161SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Ca-Seccion05_lambert8SG-Seccion05_Estante8.jpg
+Ni 1.00
+newmtl lambert162SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Ca-Seccion05_lambert9SG-Seccion05_Cincel1.jpg
+Ni 1.00
+newmtl lambert163SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Ca-Seccion05_lambert9SG-Seccion05_Cincel2.jpg
+Ni 1.00
+newmtl lambert164SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Ca-Seccion05_lambert9SG-Seccion05_Cincel3.jpg
+Ni 1.00
+newmtl lambert165SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Ca-Seccion05_lambert9SG-Seccion05_Cincel4.jpg
+Ni 1.00
+newmtl lambert166SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Ca-Seccion05_lambert9SG-Seccion05_Cincel5.jpg
+Ni 1.00
+newmtl lambert167SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Ca-Seccion05_lambert9SG-Seccion05_Cincel6.jpg
+Ni 1.00
+newmtl lambert168SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Ca-Seccion05_lambert9SG-Seccion05_Cincel7.jpg
+Ni 1.00
+newmtl lambert169SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Ca-Seccion05_blinn1SG-Seccion05_Casco2.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+newmtl lambert170SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Ca-Seccion05_lambert10SG-Seccion05_Palo1.jpg
+Ni 1.00
+newmtl lambert171SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Ca-Seccion05_lambert10SG-Seccion05_Palo2.jpg
+Ni 1.00
+newmtl lambert172SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Ca-Seccion05_lambert10SG-Seccion05_Palo3.jpg
+Ni 1.00
+newmtl lambert173SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Ca-Seccion05_lambert10SG-Seccion05_Palo4.jpg
+Ni 1.00
+newmtl lambert174SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Ca-Seccion05_lambert10SG-Seccion05_Palo5.jpg
+Ni 1.00
+newmtl lambert175SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Ca-Seccion05_lambert10SG-Seccion05_Palo6.jpg
+Ni 1.00
+newmtl lambert176SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Ca-Seccion05_lambert10SG-Seccion05_Palo7.jpg
+Ni 1.00
+newmtl lambert177SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Ca-Seccion05_lambert10SG-Seccion05_Palo8.jpg
+Ni 1.00
+newmtl lambert178SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Ca-Seccion05_lambert10SG-Seccion05_Palo9.jpg
+Ni 1.00
+newmtl lambert179SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Ca-Seccion05_lambert12SG-Seccion05_Carro1.jpg
+Ni 1.00
+newmtl lambert180SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Ca-Seccion05_lambert12SG-Seccion05_Carro2.jpg
+Ni 1.00
+newmtl lambert181SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Ca-Seccion05_lambert12SG-Seccion05_Carro3.jpg
+Ni 1.00
+newmtl lambert182SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Ca-Seccion05_lambert12SG-Seccion05_Carro4.jpg
+Ni 1.00
+newmtl lambert183SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Ca-Seccion05_lambert13SG-Seccion05_Tira4.jpg
+Ni 1.00
+newmtl lambert184SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Ca-Seccion05_lambert13SG-Seccion05_Tira3.jpg
+Ni 1.00
+newmtl lambert185SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Ca-Seccion05_lambert13SG-Seccion05_Tira1.jpg
+Ni 1.00
+newmtl lambert186SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Ca-Seccion05_lambert13SG-Seccion05_Tira2.jpg
+Ni 1.00
+newmtl lambert187SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Ca-Seccion05_lambert15SG-Seccion05_Lampara1.jpg
+Ni 1.00
+newmtl lambert188SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Ca-Seccion05_lambert15SG-Seccion05_Lampara2.jpg
+Ni 1.00
+newmtl lambert189SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Ca-Seccion05_lambert15SG-Seccion05_Lampara3.jpg
+Ni 1.00
+newmtl lambert190SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Ca-Seccion05_lambert15SG-Seccion05_Lampara4.jpg
+Ni 1.00
+newmtl lambert191SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Ca-Seccion05_lambert15SG-Seccion05_Lampara5.jpg
+Ni 1.00
+newmtl lambert192SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Ca-Seccion05_lambert15SG-Seccion05_Lampara6.jpg
+Ni 1.00
+newmtl lambert193SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Ca-Seccion05_lambert14SG-Seccion05_Cube_542_Cube_573.jpg
+Ni 1.00
+newmtl lambert194SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Ca-Seccion05_lambert14SG-Seccion05_Rec2.jpg
+Ni 1.00
+newmtl lambert195SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Ca-Seccion05_lambert14SG-Seccion05_Rec3.jpg
+Ni 1.00
+newmtl lambert196SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Ca-Seccion05_lambert14SG-Seccion05_Rec4.jpg
+Ni 1.00
+newmtl lambert197SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Ca-initialShadingGroup-Seccion05_Bot1.jpg
+Ni 1.00
+newmtl lambert198SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Ca-initialShadingGroup-Seccion05_Bot2.jpg
+Ni 1.00
+newmtl lambert199SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Ca-initialShadingGroup-Seccion05_Bot3.jpg
+Ni 1.00
+newmtl lambert200SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Ca-initialShadingGroup-Seccion05_Bot4.jpg
+Ni 1.00
+newmtl lambert201SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Ca-Seccion05_lambert14SG-Seccion05_B1.jpg
+Ni 1.00
+newmtl lambert202SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Ca-Seccion05_lambert14SG-Seccion05_B2.jpg
+Ni 1.00
+newmtl lambert203SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Ca-Seccion05_lambert14SG-Seccion05_B3.jpg
+Ni 1.00
+newmtl lambert204SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Ca-Seccion05_lambert14SG-Seccion05_B4.jpg
+Ni 1.00
+newmtl lambert205SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Ca-Seccion05_lambert14SG-Seccion05_B5.jpg
+Ni 1.00
+newmtl lambert206SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Ca-Seccion05_lambert14SG-Seccion05_B7.jpg
+Ni 1.00
+newmtl lambert207SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Ca-Seccion05_lambert14SG-Seccion05_B8.jpg
+Ni 1.00
+newmtl lambert208SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Ca-Seccion05_lambert14SG-Seccion05_B6.jpg
+Ni 1.00
+newmtl lambert209SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Ca-Seccion05_lambert14SG-Seccion05_Rue1.jpg
+Ni 1.00
+newmtl lambert210SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Ca-Seccion05_lambert14SG-Seccion05_Rue2.jpg
+Ni 1.00
+newmtl lambert211SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Ca-Seccion05_lambert14SG-Seccion05_Rue3.jpg
+Ni 1.00
+newmtl lambert212SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Ca-Seccion05_lambert14SG-Seccion05_Rue4.jpg
+Ni 1.00
+newmtl lambert213SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Ca-Seccion05_lambert14SG-Seccion05_Rue5.jpg
+Ni 1.00
+newmtl lambert214SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Ca-Seccion05_lambert14SG-Seccion05_Rue6.jpg
+Ni 1.00
+newmtl lambert215SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Ca-Seccion05_lambert14SG-Seccion05_Rue7.jpg
+Ni 1.00
+newmtl lambert216SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Ca-Seccion05_lambert14SG-Seccion05_Rue8.jpg
+Ni 1.00

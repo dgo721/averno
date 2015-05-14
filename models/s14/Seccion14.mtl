@@ -1,0 +1,603 @@
+newmtl Ca_baked_lambert14SG_Seccion14_Cube_336_Cube_341SG_Seccion14_Cube_336_Cube_341SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Ca-baked_lambert14SG_Seccion14_Cube_336_Cube_341SG-Seccion14_Cube_336_Cube_341.jpg
+Ni 1.00
+newmtl Ca_baked_lambert14SG_Seccion14_Cube_340_Cube_345SG_Seccion14_Cube_340_Cube_345SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Ca-baked_lambert14SG_Seccion14_Cube_340_Cube_345SG-Seccion14_Cube_340_Cube_345.jpg
+Ni 1.00
+newmtl blinn2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Ca-baked_lambert2SG_Seccion14_Sphere_031_Sphere_036SG-Seccion14_Sphere_031_Sphere_036.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+newmtl lambert305SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Ca-baked_lambert117SG_Seccion14_Cube_216_Cube_231SG-Seccion14_Cube_216_Cube_231.jpg
+Ni 1.00
+newmtl lambert306SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Ca-baked_blinn2SG_Seccion14_Plane_024_Plane_025SG-Seccion14_Plane_024_Plane_025.jpg
+Ni 1.00
+newmtl lambert308SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Ca-baked_lambert14SG_Seccion14_Cube_343_Cube_348SG-Seccion14_Cube_343_Cube_348.jpg
+Ni 1.00
+newmtl lambert309SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Ca-baked_lambert14SG_Seccion14_Cube_339_Cube_344SG-Seccion14_Cube_339_Cube_344.jpg
+Ni 1.00
+newmtl lambert310SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Ca-baked_lambert14SG_Seccion14_Cube_335_Cube_340SG-Seccion14_Cube_335_Cube_340.jpg
+Ni 1.00
+newmtl lambert311SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Ca-baked_lambert14SG_Seccion14_Cube_332_Cube_336SG-Seccion14_Cube_332_Cube_336.jpg
+Ni 1.00
+newmtl lambert312SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Ca-baked_lambert14SG_Seccion14_Cube_342_Cube_347SG-Seccion14_Cube_342_Cube_347.jpg
+Ni 1.00
+newmtl lambert313SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Ca-baked_lambert14SG_Seccion14_Cube_341_Cube_346SG-Seccion14_Cube_341_Cube_346.jpg
+Ni 1.00
+newmtl lambert314SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Ca-baked_lambert14SG_Seccion14_Cube_337_Cube_342SG-Seccion14_Cube_337_Cube_342.jpg
+Ni 1.00
+newmtl lambert315SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Ca-baked_lambert14SG_Seccion14_Cube_338_Cube_343SG-Seccion14_Cube_338_Cube_343.jpg
+Ni 1.00
+newmtl lambert316SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Ca-baked_lambert14SG_Seccion14_Cube_334_Cube_339SG-Seccion14_Cube_334_Cube_339.jpg
+Ni 1.00
+newmtl lambert317SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Ca-baked_lambert14SG_Seccion14_Cube_333_Cube_338SG-Seccion14_Cube_333_Cube_338.jpg
+Ni 1.00
+newmtl lambert318SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Ca-baked_lambert17SG_Seccion14_Cube_327_Cube_330SG-Seccion14_Cube_327_Cube_330.jpg
+Ni 1.00
+newmtl lambert319SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Ca-baked_lambert17SG_Seccion14_Cube_331_Cube_334SG-Seccion14_Cube_331_Cube_334.jpg
+Ni 1.00
+newmtl lambert320SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Ca-baked_lambert17SG_Seccion14_Cube_330_Cube_333SG-Seccion14_Cube_330_Cube_333.jpg
+Ni 1.00
+newmtl lambert321SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Ca-baked_lambert17SG_Seccion14_Cylinder_065_Cylinder_066SG-Seccion14_Cylinder_065_Cylinder_066.jpg
+Ni 1.00
+newmtl lambert322SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Ca-baked_lambert17SG_Seccion14_Cylinder_066_Cylinder_067SG-Seccion14_Cylinder_066_Cylinder_067.jpg
+Ni 1.00
+newmtl lambert323SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Ca-baked_lambert15SG_Seccion14_Grid_003_Grid_005_Grid_003_Grid_008SG-Seccion14_Grid_003_Grid_005_Grid_003_Grid_008.jpg
+Ni 1.00
+newmtl lambert324SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Ca-baked_lambert15SG_Seccion14_Grid_003_Grid_006_Grid_003_Grid_009SG-Seccion14_Grid_003_Grid_006_Grid_003_Grid_009.jpg
+Ni 1.00
+newmtl lambert325SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Ca-baked_lambert13SG_Seccion14_Grid_003_Grid_007_Grid_003_Grid_010SG-Seccion14_Grid_003_Grid_007_Grid_003_Grid_010.jpg
+Ni 1.00
+newmtl lambert326SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Ca-baked_lambert15SG_Seccion14_Grid_004_Grid_008SG-Seccion14_Grid_004_Grid_008.jpg
+Ni 1.00
+newmtl lambert327SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Ca-baked_lambert15SG_Seccion14_Grid_004_Grid_009SG-Seccion14_Grid_004_Grid_009.jpg
+Ni 1.00
+newmtl lambert328SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Ca-baked_lambert15SG_Seccion14_Grid_004_Grid_010SG-Seccion14_Grid_004_Grid_010.jpg
+Ni 1.00
+newmtl lambert329SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Ca-baked_lambert17SG_Seccion14_Cylinder_070_Cylinder_072SG-Seccion14_Cylinder_070_Cylinder_072.jpg
+Ni 1.00
+newmtl lambert330SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Ca-baked_lambert12SG_Seccion14_Cube_451_Cube_459SG-Seccion14_Cube_451_Cube_459.jpg
+Ni 1.00
+newmtl lambert331SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Ca-baked_lambert12SG_Seccion14_Cube_454_Cube_462SG-Seccion14_Cube_454_Cube_462.jpg
+Ni 1.00
+newmtl lambert332SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Ca-baked_lambert12SG_Seccion14_Cube_453_Cube_461SG-Seccion14_Cube_453_Cube_461.jpg
+Ni 1.00
+newmtl lambert333SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Ca-baked_lambert12SG_Seccion14_Cube_452_Cube_460SG-Seccion14_Cube_452_Cube_460.jpg
+Ni 1.00
+newmtl lambert334SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Ca-baked_lambert2SG_Seccion14_Sphere_025_Sphere_028SG-Seccion14_Sphere_025_Sphere_028.jpg
+Ni 1.00
+newmtl lambert335SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Ca-baked_lambert2SG_Seccion14_Sphere_026_Sphere_029SG-Seccion14_Sphere_026_Sphere_029.jpg
+Ni 1.00
+newmtl lambert336SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Ca-baked_lambert4SG_Seccion14_Cylinder_074_Cylinder_076SG-Seccion14_Cylinder_074_Cylinder_076.jpg
+Ni 1.00
+newmtl lambert337SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Ca-baked_lambert6SG_Seccion14_Cube_355_Cube_360SG-Seccion14_Cube_355_Cube_360.jpg
+Ni 1.00
+newmtl lambert338SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Ca-baked_lambert17SG_Seccion14_Cube_350_Cube_355SG-Seccion14_Cube_350_Cube_355.jpg
+Ni 1.00
+newmtl lambert339SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Ca-baked_lambert4SG_Seccion14_Cylinder_073_Cylinder_075SG-Seccion14_Cylinder_073_Cylinder_075.jpg
+Ni 1.00
+newmtl lambert340SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Ca-baked_lambert7SG_Seccion14_Cube_354_Cube_359SG-Seccion14_Cube_354_Cube_359.jpg
+Ni 1.00
+newmtl lambert341SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Ca-baked_lambert5SG_Seccion14_Cube_357_Cube_362SG-Seccion14_Cube_357_Cube_362.jpg
+Ni 1.00
+newmtl lambert342SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Ca-baked_lambert5SG_Seccion14_Cube_358_Cube_363SG-Seccion14_Cube_358_Cube_363.jpg
+Ni 1.00
+newmtl lambert343SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Ca-baked_lambert5SG_Seccion14_Cube_359_Cube_364SG-Seccion14_Cube_359_Cube_364.jpg
+Ni 1.00
+newmtl lambert344SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Ca-baked_lambert3SG_Seccion14_Cylinder_078_Cylinder_080SG-Seccion14_Cylinder_078_Cylinder_080.jpg
+Ni 1.00
+newmtl lambert345SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Ca-baked_lambert4SG_Seccion14_Cylinder_075_Cylinder_077SG-Seccion14_Cylinder_075_Cylinder_077.jpg
+Ni 1.00
+newmtl lambert346SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Ca-baked_lambert8SG_Seccion14_Cube_356_Cube_361SG-Seccion14_Cube_356_Cube_361.jpg
+Ni 1.00
+newmtl lambert347SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Ca-baked_lambert3SG_Seccion14_Cylinder_077_Cylinder_079SG-Seccion14_Cylinder_077_Cylinder_079.jpg
+Ni 1.00
+newmtl lambert348SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Ca-baked_lambert3SG_Seccion14_Cylinder_076_Cylinder_078SG-Seccion14_Cylinder_076_Cylinder_078.jpg
+Ni 1.00
+newmtl lambert349SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Ca-baked_lambert20SG_Seccion14_Cube_362_Cube_367SG-Seccion14_Cube_362_Cube_367.jpg
+Ni 1.00
+newmtl lambert350SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Ca-baked_lambert4SG_Seccion14_Cylinder_081_Cylinder_083SG-Seccion14_Cylinder_081_Cylinder_083.jpg
+Ni 1.00
+newmtl lambert351SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Ca-baked_lambert6SG_Seccion14_Cube_360_Cube_365SG-Seccion14_Cube_360_Cube_365.jpg
+Ni 1.00
+newmtl lambert352SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Ca-baked_lambert3SG_Seccion14_Cylinder_079_Cylinder_081SG-Seccion14_Cylinder_079_Cylinder_081.jpg
+Ni 1.00
+newmtl lambert353SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Ca-baked_lambert3SG_Seccion14_Cylinder_080_Cylinder_082SG-Seccion14_Cylinder_080_Cylinder_082.jpg
+Ni 1.00
+newmtl lambert354SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Ca-baked_lambert4SG_Seccion14_Cylinder_082_Cylinder_084SG-Seccion14_Cylinder_082_Cylinder_084.jpg
+Ni 1.00
+newmtl lambert355SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Ca-baked_lambert6SG_Seccion14_Cube_361_Cube_366SG-Seccion14_Cube_361_Cube_366.jpg
+Ni 1.00
+newmtl lambert356SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Ca-baked_lambert11SG_Seccion14_Cylinder_183_Cylinder_193SG-Seccion14_Cylinder_183_Cylinder_193.jpg
+Ni 1.00
+newmtl lambert357SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Ca-baked_lambert11SG_Seccion14_Cylinder_185_Cylinder_195SG-Seccion14_Cylinder_185_Cylinder_195.jpg
+Ni 1.00
+newmtl lambert358SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Ca-baked_lambert11SG_Seccion14_Cylinder_184_Cylinder_194SG-Seccion14_Cylinder_184_Cylinder_194.jpg
+Ni 1.00
+newmtl lambert359SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Ca-baked_lambert117SG_Seccion14_Cube_222_Cube_237SG-Seccion14_Cube_222_Cube_237.jpg
+Ni 1.00
+newmtl lambert360SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Ca-baked_lambert3SG_Seccion14_Cylinder_083_Cylinder_085SG-Seccion14_Cylinder_083_Cylinder_085.jpg
+Ni 1.00
+newmtl lambert361SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Ca-baked_lambert2SG_Seccion14_Sphere_027_Sphere_030SG-Seccion14_Sphere_027_Sphere_030.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+newmtl lambert362SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Ca-baked_lambert5SG_Seccion14_Cube_388_Cube_396SG-Seccion14_Cube_388_Cube_396.jpg
+Ni 1.00
+newmtl lambert363SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Ca-baked_lambert4SG_Seccion14_Cylinder_095_Cylinder_097SG-Seccion14_Cylinder_095_Cylinder_097.jpg
+Ni 1.00
+newmtl lambert364SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Ca-baked_lambert6SG_Seccion14_Cube_389_Cube_397SG-Seccion14_Cube_389_Cube_397.jpg
+Ni 1.00
+newmtl lambert365SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Ca-baked_lambert4SG_Seccion14_Cylinder_096_Cylinder_098SG-Seccion14_Cylinder_096_Cylinder_098.jpg
+Ni 1.00
+newmtl lambert366SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl lambert367SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Ca-baked_lambert4SG_Seccion14_Cylinder_097_Cylinder_099SG-Seccion14_Cylinder_097_Cylinder_099.jpg
+Ni 1.00
+newmtl lambert368SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Ca-baked_lambert8SG_Seccion14_Cube_391_Cube_399SG-Seccion14_Cube_391_Cube_399.jpg
+Ni 1.00
+newmtl lambert369SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Ca-baked_lambert10SG_Seccion14_Cube_455_Cube_463SG-Seccion14_Cube_455_Cube_463.jpg
+Ni 1.00
+newmtl lambert370SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Ca-baked_lambert9SG_Seccion14_Cube_458_Cube_466SG-Seccion14_Cube_458_Cube_466.jpg
+Ni 1.00
+newmtl lambert371SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Ca-baked_lambert9SG_Seccion14_Cube_456_Cube_464SG-Seccion14_Cube_456_Cube_464.jpg
+Ni 1.00
+newmtl lambert372SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Ca-baked_lambert9SG_Seccion14_Cube_457_Cube_465SG-Seccion14_Cube_457_Cube_465.jpg
+Ni 1.00
+newmtl lambert373SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Ca-baked_lambert17SG_Seccion14_Cube_351_Cube_356SG-Seccion14_Cube_351_Cube_356.jpg
+Ni 1.00
+newmtl lambert374SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Ca-baked_lambert17SG_Seccion14_Cube_352_Cube_357SG-Seccion14_Cube_352_Cube_357.jpg
+Ni 1.00
+newmtl lambert375SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Ca-baked_lambert17SG_Seccion14_Cylinder_071_Cylinder_073SG-Seccion14_Cylinder_071_Cylinder_073.jpg
+Ni 1.00
+newmtl lambert376SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Ca-baked_lambert17SG_Seccion14_Cylinder_072_Cylinder_074SG-Seccion14_Cylinder_072_Cylinder_074.jpg
+Ni 1.00
+newmtl lambert377SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Ca-baked_lambert119SG_Seccion14_Plane_015_Plane_016SG-Seccion14_Plane_015_Plane_016.jpg
+Ni 1.00
+newmtl lambert378SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Ca-baked_blinn2SG_Seccion14_Plane_024_Plane_025SG-Seccion14_Plane_024_Plane_025.jpg
+Ni 1.00
+newmtl lambert379SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Ca-baked_lambert17SG_Seccion14_Cylinder_069_Cylinder_070SG-Seccion14_Cylinder_069_Cylinder_070.jpg
+Ni 1.00
+newmtl lambert380SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Ca-baked_lambert17SG_Seccion14_Cube_347_Cube_352SG-Seccion14_Cube_347_Cube_352.jpg
+Ni 1.00
+newmtl lambert381SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Ca-baked_lambert17SG_Seccion14_Circle_006_Circle_006SG-Seccion14_Circle_006_Circle_006.jpg
+Ni 1.00
+newmtl lambert382SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Ca-baked_lambert17SG_Seccion14_Circle_007_Circle_006SG-Seccion14_Circle_007_Circle_006.jpg
+Ni 1.00
+newmtl lambert383SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Ca-baked_lambert17SG_Seccion14_Circle_006_Circle_007SG-Seccion14_Circle_006_Circle_007.jpg
+Ni 1.00
+newmtl lambert384SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Ca-baked_lambert17SG_Seccion14_Circle_007_Circle_007SG-Seccion14_Circle_007_Circle_007.jpg
+Ni 1.00
+newmtl lambert385SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Ca-baked_lambert17SG_Seccion14_Circle_006_Circle_008SG-Seccion14_Circle_006_Circle_008.jpg
+Ni 1.00
+newmtl lambert386SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Ca-baked_lambert17SG_Seccion14_Circle_007_Circle_009SG-Seccion14_Circle_007_Circle_009.jpg
+Ni 1.00
+newmtl lambert387SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Ca-baked_lambert17SG_Seccion14_Cube_349_Cube_354SG-Seccion14_Cube_349_Cube_354.jpg
+Ni 1.00
+newmtl lambert388SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Ca-baked_lambert17SG_Seccion14_Cube_348_Cube_353SG-Seccion14_Cube_348_Cube_353.jpg
+Ni 1.00
